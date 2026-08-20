@@ -7,8 +7,6 @@
 - [完整产品需求文档](docs/PRD.md)
 - [v1.0 发布门禁](docs/RELEASE-GATE.md)
 - [待定决策](docs/OPEN-DECISIONS.md)
-- [来源与使用说明](NOTICE.md)
-
 ## 可运行 Demo
 
 仓库包含一个浏览器可运行的高保真 Agent 工作台 Demo，用于体验 PRD 中的核心交互契约。
