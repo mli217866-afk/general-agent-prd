@@ -62,7 +62,6 @@ npm run build
 | 版本 | v1.0 |
 | 状态 | 待评审 |
 | 文档类型 | 通用产品需求模板 |
-| 改编来源 | [Jump Agent 飞书原稿](https://kongpinglab.feishu.cn/wiki/ZwPWwkFRCi1SWEkUehkcoNVHngb) |
 | 同步修订 | revision 157 |
 | 整理日期 | 2026-08-18 |
 
